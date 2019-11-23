@@ -20,8 +20,7 @@
 
 title: びびびのページ
 email: behabeer@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-創作が好きなエンジニアです。ゲーム、3Dモデリング、2Dデザインなどいろいろ手を出しています。
+description: 創作が好きなエンジニアです。ゲーム、3Dモデリング、2Dデザインなどいろいろ手を出しています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wakarashi_bbb
